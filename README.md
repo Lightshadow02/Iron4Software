@@ -26,7 +26,7 @@ Travail réalisé à trois ; les trois auteurs ont accepté sa publication.
 
 | Auteur | Périmètre principal |
 |---|---|
-| **Hugo Loureiro** — [hloureiro.fr](https://hloureiro.fr) · [GitHub](https://github.com/Lightshadow02) | Infrastructure Proxmox, segmentation réseau, chaîne de collecte pfSense → Splunk, IDS Snort, dispositif d'alerting et tableau de bord maison, VPN WireGuard (cible), politique de sauvegarde 3-2-1 |
+| **Hugo Loureiro** — [hloureiro.fr](https://hloureiro.fr) · [GitHub](https://github.com/Lightshadow02) · [LinkedIn](https://www.linkedin.com/in/h-loureiro/) | Infrastructure Proxmox, segmentation réseau, chaîne de collecte pfSense → Splunk, IDS Snort, dispositif d'alerting et tableau de bord maison, VPN WireGuard (cible), politique de sauvegarde 3-2-1 |
 | **Clément Bastien** | Tests d'intrusion, forensique mémoire, durcissement Windows |
 | **Maxime Corazzi** | Ré-attaque après durcissement, gestion des risques et conformité ISO 27005/27001, plan de réponse aux incidents ISO 27035 |
 
