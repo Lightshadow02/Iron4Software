@@ -1,6 +1,6 @@
 # Iron4Software — Audit, sécurisation et supervision d'une infrastructure vulnérable
 
-> **Mémoire de projet ingénieur en cybersécurité** · DataScientest × CyberUniversity · 2024–2026
+> **Mémoire de projet ingénieur en cybersécurité** · Liora (ex-DataScientest) × CyberUniversity · 2024–2026
 >
 > Une TPE fictive de 8 salariés, un laboratoire isolé sous Proxmox VE, une attaque par ransomware rejouée de bout en bout — puis la détection, le durcissement, la gouvernance et la réponse à incident. Avec une règle tenue du début à la fin : **ne présenter comme réalisé que ce qu'une trace démontre**.
 
